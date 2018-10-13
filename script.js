@@ -1,4 +1,6 @@
-document.getElementById('body');
-window.addEventListener('click',function(){
-   alert('ifdkhs'); 
-});
+let a = 'test';
+let obj = {
+    test: 'dsgkjhsn',
+    
+} 
+console.log(obj[a]);
